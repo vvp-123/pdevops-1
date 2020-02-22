@@ -2,4 +2,8 @@
 2nd line of file1
 3rd line of file1
 4th line of file1
+<conflic solved
 line added by master
+=======
+line added by dev
+>>>>>>> dev
